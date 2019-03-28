@@ -1,0 +1,41 @@
+[
+  {
+    "clsName" : "SNHomeController",
+    "title" : "Home",
+    "visitorInfo" : {
+      "content" : "Nothings",
+      "imgName" : ""
+    },
+    "imageName" : "home"
+  },
+  {
+    "clsName" : "SNMessageController",
+    "title" : "Message",
+    "visitorInfo" : {
+      "content" : "Message Page",
+      "imgName" : "visitordiscover_image_message"
+    },
+    "imageName" : "message_center"
+  },
+  {
+    "clsName" : "UIViewController"
+  },
+  {
+    "clsName" : "SNDiscoverController",
+    "title" : "Discover",
+    "visitorInfo" : {
+      "content" : "Discover Page",
+      "imgName" : "visitordiscover_image_message"
+    },
+    "imageName" : "discover"
+  },
+  {
+    "clsName" : "SNProfileController",
+    "title" : "Me",
+    "visitorInfo" : {
+      "content" : "Profile Page",
+      "imgName" : "visitordiscover_image_profile"
+    },
+    "imageName" : "profile"
+  }
+]
